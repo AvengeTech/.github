@@ -7,7 +7,7 @@
 <br>
 <p align="justify">
   <p align="center">Welcome to the official <strong>AvengeTech Network</strong> GitHub Organization!</p><br>
-  Here you can find all of the core plugins that ran the network <strong>thousands</strong> loved over the years. The 31st of August, 2025 marks the final day in AvengeTech's long life. These plugins are the result of a <strong>DECADE</strong> of dedication to the craft of creating something unique and enjoyable. Some things are a little chaotic internally, but that tends to happen after such a long time of maintainance and growth. Feel free to sample any of our work in your own! 
+  Here you can find all of the core plugins that ran the network that over <strong>300 THOUSAND</strong> players loved over the years. The 31st of August, 2025 marks the final day in AvengeTech's long life. These plugins are the result of a <strong>DECADE</strong> of dedication to the craft of creating something unique and enjoyable. Some things are a little chaotic internally, but that tends to happen after such a long time of maintainance and growth. Feel free to sample any of our work in your own! 
 </p>
 <br><hr>
 <p align="center">
