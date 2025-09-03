@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/splash.png" width="65%">
+  <img src="https://github.com/AvengeTech/.github/blob/main/profile/assets/splash.png?raw=true" width="65%">
 </p>
 <p align="center">
-	<img src="assets/banner.png" width="35%">
+	<img src="https://github.com/AvengeTech/.github/blob/main/profile/assets/banner.png?raw=true" width="35%">
 </p><hr>
 <br>
 <p align="justify">
